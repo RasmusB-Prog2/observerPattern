@@ -1,0 +1,16 @@
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer.deps.json
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer.runtimeconfig.json
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer.dll
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/ref/Observer.dll
+/home/hackerbuddy/repos/observer/src/bin/Debug/net5.0/Observer.pdb
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.csprojAssemblyReference.cache
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.dll
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/ref/Observer.dll
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.pdb
+/home/hackerbuddy/repos/observer/src/obj/Debug/net5.0/Observer.genruntimeconfig.cache

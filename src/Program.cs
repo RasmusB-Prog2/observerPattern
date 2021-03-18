@@ -6,7 +6,12 @@ namespace Observer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var channel = new Channel();
+            using var me = new User();
+            me.Unsubscriber = channel.Subscribe(me);
+            
+            channel.UpdateString("test");
+            me.Dispose();
         }
     }
 }
