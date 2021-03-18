@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqjUVqd+Q6GNkdXWwd7fDTYZTmgC5Cn49sqXRs4+Rm4PKguBsAYyxpbHVwPWuW/VEdY+Y+f3J8WiY0ugaECEPw==",
+  "success": true,
+  "projectFilePath": "/home/hackerbuddy/repos/observer/src/Observer.csproj",
+  "expectedPackageFiles": [
+    "/home/hackerbuddy/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
